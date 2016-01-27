@@ -1,5 +1,7 @@
 div {
       border: solid 3px #cc5544;
       padding: 5px 0px;
-      margin: 0px 1115px 0px 10px
+      margin: 0px 0px 0px 10px;
+      height: 220px;
+      width: 200px
     }
